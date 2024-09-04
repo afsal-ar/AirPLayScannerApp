@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22758" systemVersion="23E224" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="AirplayDevice" representedClassName=".AirplayDevice" syncable="YES">
+        <attribute name="deviceName" optional="YES" attributeType="String"/>
+        <attribute name="ipAddress" optional="YES" attributeType="String"/>
+        <attribute name="status" optional="YES" attributeType="String"/>
+    </entity>
+</model>
